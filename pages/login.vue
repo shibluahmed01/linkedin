@@ -32,7 +32,7 @@
         </div>
         <div class="headerOption">
           <img
-            class=""
+            class="rad"
             src="https://media.licdn.com/dms/image/D5603AQFb1nZl54mMog/profile-displayphoto-shrink_100_100/0/1671014128273?e=1680739200&v=beta&t=xxxqF4JohUC-3_5E2mxiH2DwmfsRyf-0N2K1pNwUeaM"
             alt=""
           />
@@ -99,7 +99,7 @@
           <div class="feed-input">
             <img src="../img/Create.png" alt="" />
             <form>
-              <input type="text" />
+              <input type="text" placeholder="Start a post" />
               <button>Send</button>
             </form>
           </div>
@@ -131,7 +131,11 @@
             </div>
           </div>
           <div class="post-body">
-            <p>Message Here</p>
+            <img
+              class="jibon"
+              src="https://media.licdn.com/dms/image/C5622AQHGLTiTPPqdSw/feedshare-shrink_800/0/1674973003962?e=1678320000&v=beta&t=QpK-FNcKLf48JBdtic7UVRZq7i_nIGE3iuNQCVDQ1bU"
+              alt=""
+            />
           </div>
           <div class="feed-inputOption">
             <div class="inputOption">
@@ -161,7 +165,11 @@
             </div>
           </div>
           <div class="post-body">
-            <p>Message Here</p>
+            <img
+              class="jibon"
+              src="https://media.licdn.com/dms/image/sync/D4E18AQFON7KiV7U1pQ/companyUpdate-article-image-shrink_627_1200/0/1669944551281/StaticOption5jpg?e=1678320000&v=beta&t=W1Q7MDm8QH2gE8d3G9PiaCuSO6aitELN4asJOyxj9o8"
+              alt=""
+            />
           </div>
           <div class="feed-inputOption">
             <div class="inputOption">
@@ -191,7 +199,11 @@
             </div>
           </div>
           <div class="post-body">
-            <p>Message Here</p>
+            <img
+              class="jibon"
+              src="https://media.licdn.com/dms/image/C4D22AQEmO1oJl2LfrQ/feedshare-shrink_800/0/1675141319386?e=1678320000&v=beta&t=38QO6VzCa5cDnEmv9QLu-mWPcLfm8YhouWBv6wPjvKg"
+              alt=""
+            />
           </div>
           <div class="feed-inputOption">
             <div class="inputOption">
@@ -221,7 +233,11 @@
             </div>
           </div>
           <div class="post-body">
-            <p>Message Here</p>
+            <img
+              class="jibon"
+              src="https://media.licdn.com/dms/image/C5622AQF3w5zcRYkKvQ/feedshare-shrink_800/0/1675314820358?e=1678320000&v=beta&t=puWHAN4A-zfTUVrLuIOKNjceDsisTPa74ugfNxWbYuI"
+              alt=""
+            />
           </div>
           <div class="feed-inputOption">
             <div class="inputOption">
@@ -251,7 +267,11 @@
             </div>
           </div>
           <div class="post-body">
-            <p>Message Here</p>
+            <img
+              class="jibon"
+              src="https://media.licdn.com/dms/image/D5622AQGwbohLJMMk_Q/feedshare-shrink_800/0/1675036482698?e=1678320000&v=beta&t=olYz1aMIsUijGbhjFZaQfc0R-DjeAG5wH3qETnB2i38"
+              alt=""
+            />
           </div>
           <div class="feed-inputOption">
             <div class="inputOption">
@@ -281,7 +301,11 @@
             </div>
           </div>
           <div class="post-body">
-            <p>Message Here</p>
+            <img
+              class="jibon"
+              src="https://media.licdn.com/dms/image/C5622AQHpDAUZcPxOUA/feedshare-shrink_800/0/1674646251114?e=1678320000&v=beta&t=LQDr8i3UYEp4A9R6T2krrtbKtTmlI8M3_EMc7WNdG4M"
+              alt=""
+            />
           </div>
           <div class="feed-inputOption">
             <div class="inputOption">
@@ -311,7 +335,11 @@
             </div>
           </div>
           <div class="post-body">
-            <p>Message Here</p>
+            <img
+              class="jibon"
+              src="https://media.licdn.com/dms/image/C5622AQEQH3FMOLqW0Q/feedshare-shrink_800/0/1675248215603?e=1678320000&v=beta&t=98d8Cts-UAiY_1kUkBwYrxjXjBdc6Bag9oX5NAArepI"
+              alt=""
+            />
           </div>
           <div class="feed-inputOption">
             <div class="inputOption">
@@ -399,6 +427,10 @@ body {
   object-fit: contain;
   height: 40px;
   margin-left: 10px;
+}
+
+.rad {
+  border-radius: 50%;
 }
 
 .header-right img {
@@ -680,6 +712,10 @@ body {
   padding: 15px;
   margin-bottom: 10px;
   border-radius: 10px;
+}
+
+.jibon {
+  width: 100% !important;
 }
 
 .post-header {
