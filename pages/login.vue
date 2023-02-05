@@ -716,6 +716,7 @@ body {
 
 .jibon {
   width: 100% !important;
+  object-fit: cover;
 }
 
 .post-header {
