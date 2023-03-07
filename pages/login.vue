@@ -330,6 +330,53 @@
           <div class="post-header">
             <img src="../img/me.png" alt="" />
             <div class="post-info">
+              <h2>Md Sumon Ahmed</h2>
+              <p>Job Description</p>
+            </div>
+          </div>
+          <div class="post-body">
+            <p>
+              শপিফাই প্রোডাক্ট রিভিউ এর জন্য আমাদের Arifur Rahaman Naim ভাই এর
+              JoulesLabs চমৎকার একটা কমপ্লিট শপিফাই প্রোডাক্ট রিভিউ অ্যাপ তৈরী
+              করেছেন, যাতে শুধু প্রোডাক্ট এর রিভিউ কালেক্ট করাই নয়, রিভিউ গুলো
+              হোম পেজ এ শো করানো, কাস্টমারদের কাছে রিভিউ রিকোয়েস্ট পাঠানো,
+              aliexpress অথবা যেকোনো রিভিউ অ্যাপ থেকে রিভিউ ইম্পোর্ট করা সহ অনেক
+              চমৎকার কিছু ফীচার রয়েছে অ্যাপটিতে। এছাড়াও অ্যাপটি যেকোনো শপিফাই
+              থিম ও Page Builder এ সহজেই ব্যবহার করা যাবে। -- আমাদের সকল ব্যাচ
+              এর শপিফাই স্টুডেন্টদের অ্যাপটি টি ব্যবহার করার জন্য আর ক্লায়েন্ট
+              এর কাজ-এ এই অ্যাপটি টি ব্যবহার করার জন্য বলবো। -- ভিডিও:
+              https://lnkd.in/gRGpXydV App link: https://lnkd.in/gxYkz8d8 Avail
+              30% Discount with the Coupon Code: MINHAZ30 -- #ReviewXpo
+            </p>
+            <img
+              class="jibon"
+              src="https://media.licdn.com/dms/image/C5622AQEv-879u5xmpA/feedshare-shrink_800/0/1678118266467?e=1681344000&v=beta&t=ZvhPXuOXku5s8g4VageWU8Z4Vvb5hHJ1SoSMs8GUdnk"
+              alt=""
+            />
+          </div>
+          <div class="feed-inputOption">
+            <div class="inputOption">
+              <img src="../img/like.png" alt="" />
+              <h4>Like</h4>
+            </div>
+            <div class="inputOption">
+              <img src="../img/comment.png" alt="" />
+              <h4>Comment</h4>
+            </div>
+            <div class="inputOption">
+              <img src="../img/share.png" alt="" />
+              <h4>Share</h4>
+            </div>
+            <div class="inputOption">
+              <img src="../img/send.png" alt="" />
+              <h4>Send</h4>
+            </div>
+          </div>
+        </div>
+        <div class="post">
+          <div class="post-header">
+            <img src="../img/me.png" alt="" />
+            <div class="post-info">
               <h2>Md Rakib</h2>
               <p>Job Description</p>
             </div>
