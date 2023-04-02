@@ -134,7 +134,7 @@
             <p>I am a font-end developer</p>
             <img
               class="jibon"
-              src="https://scontent.frjh1-1.fna.fbcdn.net/v/t39.30808-6/326455273_1819425548414981_5190579311752826900_n.jpg?stp=dst-jpg_p526x296&_nc_cat=107&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeFXoYyY5ewQgiPQiDePfof7GSlvSrOFIzcZKW9Ks4UjN-CL1JLDTRvnirs26BCa3g4_7rtZc4vnkn2RpEjFI7VJ&_nc_ohc=_bJGn-VSlUAAX9TEizO&_nc_ht=scontent.frjh1-1.fna&oh=00_AfDxUh_gD4QOREcoIx3DpV2NrPCsn_Ovw9btBRCL4QFqqg&oe=64145C8A"
+              src="https://scontent.frjh1-1.fna.fbcdn.net/v/t39.30808-6/277810875_109602528387003_3108670633111731652_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_eui2=AeFddL1Oq0u6FHkZvlv9hS951LAh27_FGAHUsCHbv8UYAZIedT5nNgrgKS5-c9ndN4fkTFXAcL1lkVNx4BysdMuu&_nc_ohc=SEaOsrJD4OAAX_Pd3A7&_nc_ht=scontent.frjh1-1.fna&oh=00_AfDIGCdVS_mEzi4eswM3E3pj48Fl9CmLwK-YNSqFVqdpkw&oe=642D52D2"
               alt=""
             />
           </div>
@@ -168,7 +168,7 @@
           <div class="post-body">
             <img
               class="jibon"
-              src="https://media.licdn.com/dms/image/C4D10AQE8Etcy_SS2JQ/image-shrink_800/0/1678349477214?e=1679292000&v=beta&t=VNFYDPAP6akBHX7l67wGAs3aPKJPX4pF_c6WRlA-wGI"
+              src="https://media.licdn.com/dms/image/D5622AQFMwfI53a_Bdw/feedshare-shrink_2048_1536/0/1680116337658?e=1683158400&v=beta&t=nRkSkgF1Mp-zviUlqfRSuro7HFPN5eqjuKfzUrzAJz8"
               alt=""
             />
           </div>
@@ -234,9 +234,13 @@
             </div>
           </div>
           <div class="post-body">
+            <p>
+              "Pausing AI Developments Isn't Enough. We Need to Shut it All
+              Down" - a Time article by ELIEZER YUDKOWSKY
+            </p>
             <img
               class="jibon"
-              src="https://media.licdn.com/dms/image/sync/D4D27AQGwNiwUbvfp-A/articleshare-shrink_1280_800/0/1677745948355?e=1679292000&v=beta&t=7B3BUH9rZ-Nfe1A1PjIMLTWfLurK_dfzhHUKsrmGR_8"
+              src="https://media.licdn.com/dms/image/sync/C4D27AQEfSn-QIvya-w/articleshare-shrink_800/0/1680397775412?e=1681023600&v=beta&t=Pf9XXkXHJz2stiVE_gG6eg1yZeB4CeqqvcKj8P2zPX8"
               alt=""
             />
           </div>
@@ -303,9 +307,16 @@
           </div>
           <div class="post-body">
             <p>My dreams are out of reach</p>
+            <p>
+              During my 20 years of career, I had good and bad managers, yet
+              when I had less experience, it was hard to distinguish those
+              signals and know if they the good or bad ones. And this was
+              especially important in the field of technology, where we have
+              managers who become from an engineering background
+            </p>
             <img
               class="jibon"
-              src="https://scontent.frjh1-1.fna.fbcdn.net/v/t39.30808-6/333380985_1263573977847631_6779618194480223320_n.jpg?stp=dst-jpg_p526x296&_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeF_8XkDymlb5puhu6zsCDU5zWIgJYwuePvNYiAljC54-34Dojr-uhvaUKhFC_sP8EVIdx-vusNGb_8ZA1BDpRcU&_nc_ohc=nndh37tvtCsAX8Iivzh&_nc_ht=scontent.frjh1-1.fna&oh=00_AfACut3aLvBAIMWYHTnVx47-2W1wwv_RSkDS4gQtgCIt0g&oe=6413413D"
+              src="https://media.licdn.com/dms/image/D4D22AQFzHWOempF21w/feedshare-shrink_2048_1536/0/1679824221720?e=1683158400&v=beta&t=EftZbF96foXMK9RnZoOZPlWZ858pgX47anFHSaMiUdA"
               alt=""
             />
           </div>
