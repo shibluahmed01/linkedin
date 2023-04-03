@@ -134,7 +134,7 @@
             <p>I am a font-end developer</p>
             <img
               class="jibon"
-              src="https://scontent.frjh1-1.fna.fbcdn.net/v/t39.30808-6/277810875_109602528387003_3108670633111731652_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_eui2=AeFddL1Oq0u6FHkZvlv9hS951LAh27_FGAHUsCHbv8UYAZIedT5nNgrgKS5-c9ndN4fkTFXAcL1lkVNx4BysdMuu&_nc_ohc=SEaOsrJD4OAAX_Pd3A7&_nc_ht=scontent.frjh1-1.fna&oh=00_AfDIGCdVS_mEzi4eswM3E3pj48Fl9CmLwK-YNSqFVqdpkw&oe=642D52D2"
+              src="https://scontent.frjh1-1.fna.fbcdn.net/v/t39.30808-6/319860554_970108417709063_1483603473900214526_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=174925&_nc_eui2=AeEu3sSP0oNoiI0RE4kiyQ2aES_DzkssE34RL8POSywTfuaTesvd7vNyOxWIMNBN2aUBF4rx9olTc63GV9T-A2uP&_nc_ohc=Efi0Ee7FETcAX8FvQMx&_nc_ht=scontent.frjh1-1.fna&oh=00_AfCRLy4644kekufsa_XQnDJzcdvN0Z2392i2ph39YV_psQ&oe=642ED70A"
               alt=""
             />
           </div>
