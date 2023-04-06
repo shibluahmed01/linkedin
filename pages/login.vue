@@ -31,11 +31,7 @@
           <h3>Notifications</h3>
         </div>
         <div class="headerOption">
-          <img
-            class="rad"
-            src="https://media.licdn.com/dms/image/D5603AQFb1nZl54mMog/profile-displayphoto-shrink_100_100/0/1671014128273?e=1680739200&v=beta&t=xxxqF4JohUC-3_5E2mxiH2DwmfsRyf-0N2K1pNwUeaM"
-            alt=""
-          />
+          <img class="rad" src="../img/ami.jpg" alt="" />
           <h3>Me</h3>
         </div>
       </div>
@@ -49,11 +45,7 @@
               src="https://media.istockphoto.com/id/1071589020/photo/abstract-blurred-gradient-background-in-bright-colors-colorful-smooth-illustration.webp?s=612x612&w=is&k=20&c=FXqX8MjZXvCE9as3wOhI3_GGtLZZJ5EIK8eSywfS78M="
               alt=""
             />
-            <img
-              class="picture"
-              src="https://media.licdn.com/dms/image/D5603AQFb1nZl54mMog/profile-displayphoto-shrink_100_100/0/1671014128273?e=1680739200&v=beta&t=xxxqF4JohUC-3_5E2mxiH2DwmfsRyf-0N2K1pNwUeaM"
-              alt=""
-            />
+            <img class="picture" src="../img/ami.jpg" alt="" />
             <div class="name">
               <h2>Jibon Ahmed</h2>
               <h4>shiblum420@gmail.com</h4>
