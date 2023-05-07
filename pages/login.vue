@@ -124,11 +124,7 @@
           </div>
           <div class="post-body">
             <p>I am a font-end developer</p>
-            <img
-              class="jibon"
-              src="https://scontent.frjh1-1.fna.fbcdn.net/v/t39.30808-6/319860554_970108417709063_1483603473900214526_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=174925&_nc_eui2=AeEu3sSP0oNoiI0RE4kiyQ2aES_DzkssE34RL8POSywTfuaTesvd7vNyOxWIMNBN2aUBF4rx9olTc63GV9T-A2uP&_nc_ohc=Efi0Ee7FETcAX8FvQMx&_nc_ht=scontent.frjh1-1.fna&oh=00_AfCRLy4644kekufsa_XQnDJzcdvN0Z2392i2ph39YV_psQ&oe=642ED70A"
-              alt=""
-            />
+            <img class="jibon" src="./../img/ami.jpg" alt="" />
           </div>
           <div class="feed-inputOption">
             <div class="inputOption">
@@ -158,11 +154,7 @@
             </div>
           </div>
           <div class="post-body">
-            <img
-              class="jibon"
-              src="https://media.licdn.com/dms/image/D5622AQFMwfI53a_Bdw/feedshare-shrink_2048_1536/0/1680116337658?e=1683158400&v=beta&t=nRkSkgF1Mp-zviUlqfRSuro7HFPN5eqjuKfzUrzAJz8"
-              alt=""
-            />
+            <img class="jibon" src="../img/SEO.jpg" alt="" />
           </div>
           <div class="feed-inputOption">
             <div class="inputOption">
@@ -192,11 +184,7 @@
             </div>
           </div>
           <div class="post-body">
-            <img
-              class="jibon"
-              src="https://media.licdn.com/dms/image/C4E22AQG0FtSJN0Zb0g/feedshare-shrink_800/0/1678450460234?e=1681344000&v=beta&t=9V5eu-zmijDrO3ONbw9EJhhPLAnfQvjpecLWQ1L_l8g"
-              alt=""
-            />
+            <img class="jibon" src="../img/job.jpg" alt="" />
           </div>
           <div class="feed-inputOption">
             <div class="inputOption">
@@ -230,11 +218,7 @@
               "Pausing AI Developments Isn't Enough. We Need to Shut it All
               Down" - a Time article by ELIEZER YUDKOWSKY
             </p>
-            <img
-              class="jibon"
-              src="https://media.licdn.com/dms/image/sync/C4D27AQEfSn-QIvya-w/articleshare-shrink_800/0/1680397775412?e=1681023600&v=beta&t=Pf9XXkXHJz2stiVE_gG6eg1yZeB4CeqqvcKj8P2zPX8"
-              alt=""
-            />
+            <img class="jibon" src="../img/Independent.jpg" alt="" />
           </div>
           <div class="feed-inputOption">
             <div class="inputOption">
@@ -264,11 +248,7 @@
             </div>
           </div>
           <div class="post-body">
-            <img
-              class="jibon"
-              src="https://media.licdn.com/dms/image/C5622AQH0VD2JjdIxgA/feedshare-shrink_800/0/1678680771390?e=1681344000&v=beta&t=BA7uzgN8TCq_9zUkFf_cmCaALBxXV1ppvgNdHeMTPQs"
-              alt=""
-            />
+            <img class="jibon" src="../img/Family.jpg" alt="" />
           </div>
           <div class="feed-inputOption">
             <div class="inputOption">
@@ -298,19 +278,7 @@
             </div>
           </div>
           <div class="post-body">
-            <p>My dreams are out of reach</p>
-            <p>
-              During my 20 years of career, I had good and bad managers, yet
-              when I had less experience, it was hard to distinguish those
-              signals and know if they the good or bad ones. And this was
-              especially important in the field of technology, where we have
-              managers who become from an engineering background
-            </p>
-            <img
-              class="jibon"
-              src="https://media.licdn.com/dms/image/D4D22AQFzHWOempF21w/feedshare-shrink_2048_1536/0/1679824221720?e=1683158400&v=beta&t=EftZbF96foXMK9RnZoOZPlWZ858pgX47anFHSaMiUdA"
-              alt=""
-            />
+            <img class="jibon" src="../img/Chaycel.jpg" alt="" />
           </div>
           <div class="feed-inputOption">
             <div class="inputOption">
@@ -340,24 +308,7 @@
             </div>
           </div>
           <div class="post-body">
-            <p>
-              শপিফাই প্রোডাক্ট রিভিউ এর জন্য আমাদের Arifur Rahaman Naim ভাই এর
-              JoulesLabs চমৎকার একটা কমপ্লিট শপিফাই প্রোডাক্ট রিভিউ অ্যাপ তৈরী
-              করেছেন, যাতে শুধু প্রোডাক্ট এর রিভিউ কালেক্ট করাই নয়, রিভিউ গুলো
-              হোম পেজ এ শো করানো, কাস্টমারদের কাছে রিভিউ রিকোয়েস্ট পাঠানো,
-              aliexpress অথবা যেকোনো রিভিউ অ্যাপ থেকে রিভিউ ইম্পোর্ট করা সহ অনেক
-              চমৎকার কিছু ফীচার রয়েছে অ্যাপটিতে। এছাড়াও অ্যাপটি যেকোনো শপিফাই
-              থিম ও Page Builder এ সহজেই ব্যবহার করা যাবে। -- আমাদের সকল ব্যাচ
-              এর শপিফাই স্টুডেন্টদের অ্যাপটি টি ব্যবহার করার জন্য আর ক্লায়েন্ট
-              এর কাজ-এ এই অ্যাপটি টি ব্যবহার করার জন্য বলবো। -- ভিডিও:
-              https://lnkd.in/gRGpXydV App link: https://lnkd.in/gxYkz8d8 Avail
-              30% Discount with the Coupon Code: MINHAZ30 -- #ReviewXpo
-            </p>
-            <img
-              class="jibon"
-              src="https://media.licdn.com/dms/image/C5622AQEv-879u5xmpA/feedshare-shrink_800/0/1678118266467?e=1681344000&v=beta&t=ZvhPXuOXku5s8g4VageWU8Z4Vvb5hHJ1SoSMs8GUdnk"
-              alt=""
-            />
+            <img class="jibon" src="../img/Html.jpg" alt="" />
           </div>
           <div class="feed-inputOption">
             <div class="inputOption">
@@ -387,11 +338,7 @@
             </div>
           </div>
           <div class="post-body">
-            <img
-              class="jibon"
-              src="https://media.licdn.com/dms/image/sync/D5618AQEyGllJKtrJrQ/companyUpdate-article-image-shrink_627_1200/0/1665517590278?e=1681344000&v=beta&t=xnN4SEN_qfK4An5F7EsCFMwgRD_o5lz0DL-USm6jeLw"
-              alt=""
-            />
+            <img class="jibon" src="../img/passed.jpg" alt="" />
           </div>
           <div class="feed-inputOption">
             <div class="inputOption">
